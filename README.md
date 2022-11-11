@@ -14,14 +14,14 @@ Costumava trabalha com Suporte Técnico em um Hospital e freelancer nas horas va
 
 <div align="left">
   <a href="//medium.com/@manuseiro" alt="Medium">
-    <img src="https://img.shields.io/badge/-Medium-ff3a5e?style=for-the-badge&logo=Medium&logoColor=#00AFEF"/>
+    <img src="https://img.shields.io/badge/-Medium-00AFEF?style=for-the-badge&logo=Medium&logoColor=FFF"/>
   </a>
   
   <a href="//www.linkedin.com/in/manuseiro" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-ff3a5e?style=for-the-badge&logo=Linkedin&logoColor=#00AFEF"/>
+    <img src="https://img.shields.io/badge/-Linkedin-00AFEF?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
   </a>
   
   <a href="//www.youtube.com/manuseiro" alt="Youtube">
-    <img src="https://img.shields.io/badge/-Youtube-ff3a5e?style=for-the-badge&logo=Youtube&logoColor=#00AFEF"/>
+    <img src="https://img.shields.io/badge/-Youtube-00AFEF?style=for-the-badge&logo=Youtube&logoColor=FFF"/>
   </a>
 </div>
