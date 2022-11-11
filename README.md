@@ -1,4 +1,4 @@
-<h2>Olá pessoas! Eu sou Manuel \o/ 👋☕</h2>
+<h2>Olá! Eu sou Manuel \o/ 👋☕</h2>
 
 Após conclusão do curso de Informatica, iniciei minha carreira em um estágio, como instrutor de informática.
 
