@@ -8,7 +8,7 @@ Graça ao conhecimento adquirido no curso, ingressei no meu primeiro emprego com
 
 ### O que eu faço?
 
-Costumava trabalha com Suporte Técnico em um Hospital e freelancer nas horas vagas. Atualmente estou cursando o 4º Semestre em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá e iniciando estudo em Analista de testes de software (QA). Atualmente sou Técnico de Service Desk Sênior na empresa QINTESS, prestando suporte aos sistemas do Banco do Nordeste.
+Costumo trabalha com Suporte Técnico em um Hospital e freelancer nas horas vagas. Atualmente estou cursando o 4º Semestre em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá e iniciando estudo em Analista de testes de software (QA). Atualmente sou Técnico de Service Desk Sênior na empresa QINTESS, prestando suporte aos sistemas do Banco do Nordeste.
 
 <h3>Caso queira acompanhar meus conteúdos:</h3> 
 
