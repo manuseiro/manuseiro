@@ -1,14 +1,16 @@
 <h2>Olá! Eu sou Manuel \o/ 👋☕</h2>
 
-Após conclusão do curso de Informatica, iniciei minha carreira em um estágio, como instrutor de informática.
-
-</br>
-
-Graça ao conhecimento adquirido no curso, ingressei no meu primeiro emprego como Auxiliar Administrativo e fui efetivado em Técnico de Informática, também já atuei como Freelancer na criação de sites.
+Profissional Graduado em Análise e Desenvolvimento de Sistemas pela Estácio e Cursando Pós-Graduação em Engenharia de Software, experiente na área de suporte e análise, com mais de 8 anos de atuação em empresas de médio e grande porte nos segmentos de Tecnologia da Informação e Serviços.
 
 ### O que eu faço?
 
-Costumo trabalha com Suporte Técnico em um Hospital e freelancer nas horas vagas. Atualmente estou cursando o 4º Semestre em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá e iniciando estudo em Analista de testes de software (QA). Atualmente sou Técnico de Service Desk Sênior na empresa QINTESS, prestando suporte aos sistemas do Banco do Nordeste.
+Constantemente aprimorando minhas habilidades, com foco atual no aprofundamento dos conhecimentos em Azure DevOps, Fundamentos da Gestão de Projetos de Software, Histórias de usuários, BPMN, Requisitos de negócio e Metodologias Agile.
+
+Atualmente, ocupando a posição de Analista Administrativo I (Analista de Teste de Software) na Servit Empreendimentos, sou responsável por garantir que os sistemas atendam aos requisitos e expectativas dos clientes por meio da realização de testes em homologação, utilizando metodologias Ágil, DevOps, Gestão de Projetos e Kanban.
+
+Possuo certificações relevantes, como HDI Support Center Analyst, Scrum Foundation e Kanban Essentials. Concluí com sucesso os Curso de Análise de Teste de Software (QA), enriquecendo minhas habilidades em análise de teste.
+
+Minha experiência é marcada por um forte compromisso com a satisfação dos clientes, entrega de resultados, melhoria contínua, otimização de processos e garantia de eficiência operacional. Sou apaixonado por tecnologia e enfrento desafios com entusiasmo, sempre buscando soluções inovadoras para atender às necessidades das equipes e empresas com as quais colaboro."
 
 <h3>Caso queira acompanhar meus conteúdos:</h3> 
 
