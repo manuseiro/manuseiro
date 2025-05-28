@@ -1,16 +1,19 @@
 <h2>Olá! Eu sou Manuel \o/ 👋☕</h2>
 
-Profissional Graduado em Análise e Desenvolvimento de Sistemas pela Estácio e Cursando Pós-Graduação em Engenharia de Software, experiente na área de suporte e análise, com mais de 8 anos de atuação em empresas de médio e grande porte nos segmentos de Tecnologia da Informação e Serviços.
+Sou um Analista de Testes de Software comprometido com a qualidade de sistemas através de testes manuais e estudos em automação de teste. Com 5+ anos em Suporte Técnico, utilizo Postman, SoapUI, Azure DevOps, e SQL (DB2/SQL Server) para entregas confiáveis. Apesar do título administrativo atual, atuo em homologação de software, garantindo requisitos de negócio. Atualmente, estudo Cypress e Cucumber para dominar automação de teste.
 
-### O que eu faço?
+### 💻 O que eu faço:
+- Crio cenários de teste com Histórias de Usuário, aplicando Scrum e Kanban para funcionalidades robustas.
+- Valido APIs REST/SOAP com Postman e SoapUI, usando Castle Mock para testes simulados.
+- Otimizei consultas SQL em DB2, reduzindo falhas em 20% via análise de logs com FileZilla.
+- Criei uma base de conhecimento, capacitando 50+ analistas e reduzindo erros em 15%.
 
-Constantemente aprimorando minhas habilidades, com foco atual no aprofundamento dos conhecimentos em Azure DevOps, Fundamentos da Gestão de Projetos de Software, Histórias de usuários, BPMN, Requisitos de negócio e Metodologias Agile.
+### 🎓 Formação e Certificações:
+- Pós-graduando em Engenharia de Software (Uniamérica, 2024-2025).
+- Graduado em Análise e Desenvolvimento de Sistemas (Estácio, 2021-2024).
+- Certificações: Scrum Foundation, Kanban Essentials, HDI Support Center Analyst.
 
-Atualmente, ocupando a posição de Analista Administrativo I (Analista de Teste de Software) na Servit Empreendimentos, sou responsável por garantir que os sistemas atendam aos requisitos e expectativas dos clientes por meio da realização de testes em homologação, utilizando metodologias Ágil, DevOps, Gestão de Projetos e Kanban.
-
-Possuo certificações relevantes, como HDI Support Center Analyst, Scrum Foundation e Kanban Essentials. Concluí com sucesso os Curso de Análise de Teste de Software (QA), enriquecendo minhas habilidades em análise de teste.
-
-Minha experiência é marcada por um forte compromisso com a satisfação dos clientes, entrega de resultados, melhoria contínua, otimização de processos e garantia de eficiência operacional. Sou apaixonado por tecnologia e enfrento desafios com entusiasmo, sempre buscando soluções inovadoras para atender às necessidades das equipes e empresas com as quais colaboro."
+Minha abordagem: Minha experiência em suporte técnico e gestão de conhecimento impulsiona meu trabalho em QA. Sou colaborativo e movido por aprendizado.
 
 <h3>Caso queira acompanhar meus conteúdos:</h3> 
 
